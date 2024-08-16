@@ -8,7 +8,7 @@ This program also uses visual tools such as images, maps, and graphs to give use
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import os
 import math
 from altair.utils import data
